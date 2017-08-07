@@ -1,0 +1,6 @@
+hash: ef09fb7c18b2e2137e947f16f609a0cefa04ea768ea5cb698d6ee32bf8edc456
+updated: 2017-08-07T10:07:07.300268116+02:00
+imports:
+- name: launchpad.net/gommap
+  version: "15"
+testImports: []

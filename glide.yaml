@@ -1,0 +1,3 @@
+package: github.com/svenwltr/docker-mmap-test
+import:
+- package: launchpad.net/gommap
